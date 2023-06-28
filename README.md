@@ -9,4 +9,4 @@ criando um repositório pc aula 1
 - **olá, eu sou @allanjackson**
 - +1:0 meu email é [e-mail] (allan.sorti@escola.pr.gov.br)
 - +1: eu estou interessado em apreder programação
--
+-+1: eu quero muito aprender a hackear 
